@@ -1,0 +1,17 @@
+Rollback Evidence – Task 24
+
+Original Data
+
+The original Superstore dataset was retained without modification.
+
+Processing
+
+Data quality checks were performed using Python and Pandas.
+
+The original dataset was not overwritten during the cleaning process.
+
+Rollback Method
+
+If the cleaned output needs to be discarded, the original Superstore dataset can be used again because the source dataset was preserved separately.
+
+Therefore, the audit process does not permanently modify the original source data.
